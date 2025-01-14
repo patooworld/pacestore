@@ -1,0 +1,9 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://total-service-378018.web.app"
+  },
+  "cloud_run_deploy": {},
+  "gemini_api": {},
+  "google_maps_platform": {},
+  "secrets_manager": {}
+}
