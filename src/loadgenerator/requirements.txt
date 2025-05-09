@@ -37,7 +37,7 @@ geventhttpclient==2.3.1
     # via locust
 greenlet==3.0.3
     # via gevent
-idna==3.8
+idna==3.10
     # via requests
 itsdangerous==2.2.0
     # via flask
@@ -61,11 +61,11 @@ requests==2.32.3
     # via locust
 six==1.16.0
     # via python-dateutil
-urllib3==2.2.2
+urllib3==2.2.3
     # via
     #   geventhttpclient
     #   requests
-werkzeug==3.0.4
+werkzeug==3.0.6
     # via
     #   flask
     #   flask-login
